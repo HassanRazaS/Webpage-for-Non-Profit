@@ -8,6 +8,9 @@ Authors:
 
 # How to Import this webpage on your domain
 
+Download the WordPress file from the OneDrive link:
+https://mywhitworth-my.sharepoint.com/:u:/g/personal/hshah26_my_whitworth_edu/EZBEIsSU6mFNkkajlD1FCZYBbOwBOHMbLP_OG7WMnrxS8w?e=4hvQNe
+
 ## Instructions
 
 1. **Download WordPress:**
